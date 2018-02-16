@@ -1,0 +1,38 @@
+body {
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-right: 25px;
+}
+/*Section start here*/
+.nav-search input {
+	background-color: #000;
+}
+.nav-search button {
+	background-color: red;
+}
+.nav-search:hover {
+	color: #fff;
+	background-color: #000;
+}
+.fa{
+	.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+	 
+	
+}
+.fa:hover {
+	background: red;
+}
+.carousel-item img{
+	padding: 20px;
+	height: auto;
+	width: 100%;
+	
+}
+h5 {
+	color: black;
+}
